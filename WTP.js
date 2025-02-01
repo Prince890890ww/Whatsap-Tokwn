@@ -154,7 +154,7 @@ app.get('/', (req, res) => {
                 </div>
             </div>
             <footer>
-                <p>Designed by <a href="#">ANURAG DON😎❤️</a> | AK RULEX on fire ðŸ‰ðŸ©·</p>
+                <p>Designed by <a href="#">KH0F M9KER PRINCE H3R3</a> | ALL RULEX FATHER PRINCE HERE·</p>
             </footer>
         </body>
         </html>
